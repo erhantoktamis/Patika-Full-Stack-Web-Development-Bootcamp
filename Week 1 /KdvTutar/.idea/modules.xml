@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KDV.iml" filepath="$PROJECT_DIR$/KDV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KdvTutar.iml" filepath="$PROJECT_DIR$/KdvTutar.iml" />
     </modules>
   </component>
 </project>
